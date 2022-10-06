@@ -1,3 +1,9 @@
+# cmake fork
+
+This fork provides a way to build the project via cmake rather than the
+handtyped Makefile version.
+
+
 <p align=center>
 	<img src="img/logo.png" />
 	<h2 align=center>huxdemp (aka <code>huxd</code>)</h2>
